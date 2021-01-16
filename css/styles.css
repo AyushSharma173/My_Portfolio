@@ -31,9 +31,11 @@
 
 .html {width: 90%; background-color: #808080;} /* Green */
 .css {width: 70%; background-color: #808080;} /* Blue */
-.python {width: 80%; background-color: #808080;} /* Red */
+.python {width: 90%; background-color: #808080;} /* Red */
 .machine_learning {width: 80%; background-color: #808080;} /* Dark Grey */
 .physics {width: 90%; background-color: #808080;} /* Dark Grey */
+.excel {width: 70%; background-color: #808080}
+.Javascript {width: 60%; background-color: #808080}
 
 .col-md-8{
   font-size: 20px;
